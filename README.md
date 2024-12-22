@@ -1,2 +1,2 @@
-# Oday27
-Noloshaada wexee ku ciyaarto meel siman oo aad iska ilaaliso inaad si xoog leh u dhaawacin 
+git clone https://github.com/username/repository-name.git
+cd repository-name
